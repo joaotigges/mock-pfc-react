@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link, Outlet, useLocation } from 'react-router-dom';
 import { LayoutDashboard, ShieldCheck, Activity, Home as HomeIcon, ChevronRight } from 'lucide-react';
 

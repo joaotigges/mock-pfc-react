@@ -1,5 +1,4 @@
-import React from 'react';
-import { BarChart3, Clock, Zap, AlertCircle } from 'lucide-react';
+import { BarChart3 } from 'lucide-react';
 
 export const DashboardPage = () => {
   const metrics = [

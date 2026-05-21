@@ -1,5 +1,4 @@
-import React from 'react';
-import { Terminal, ShieldAlert, Fingerprint } from 'lucide-react';
+import { Terminal, ShieldAlert } from 'lucide-react';
 
 export const SecurityPage = () => {
   const logs = [

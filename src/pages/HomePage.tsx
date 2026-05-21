@@ -1,4 +1,3 @@
-import React from 'react';
 import { Server, Shield, Zap, ArrowRight, GitMerge, Lock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
